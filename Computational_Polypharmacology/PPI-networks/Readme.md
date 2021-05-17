@@ -14,7 +14,11 @@
 
   <a href="https://github.com/jdhurtadop2017/Mapping_Targets/raw/master/Outputs/Outputs.rar"> **Outputs**</a>
   
-  <a href=".\media\workflow.svg"  target="_blank">![](.\media\workflow.svg)</a>
+  Here you can see a complete visualization of the workflow <a href="https://raw.githubusercontent.com/jdhurtadop2017/Mapping_Targets/master/media/workflow.svg" target="_blank">**Workflow view**</a>
+  
+  
+  
+  <a href=".\media\Workflow.png"  target="_blank">![](/media/Workflow.png)</a>
 
 ###  1. Inputs - Acquisition of data from different databases to calculate interaction frequencies.
 
